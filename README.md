@@ -1,6 +1,6 @@
 # Question-Answer
 
-This is my "Auth" project. First project writing with Node.js.
+This is my "Auth" project. My first project writing with Node.js.
 
 # Use with Postman or collaboration platforms for API development
 

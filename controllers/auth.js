@@ -59,4 +59,5 @@ const getUser = (req, res, next) => {
     },
   });
 };
+
 module.exports = { register, getUser, login, logout };

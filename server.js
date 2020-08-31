@@ -3,6 +3,7 @@ const dotenv = require("dotenv");
 const connectDatabase = require("./helpers/database/connectDatabase");
 const routers = require("./routers/index");
 const customErrorHandler = require("./middlewares/errors/customErrorHandler");
+//for file path
 const path = require("path");
 
 dotenv.config({
